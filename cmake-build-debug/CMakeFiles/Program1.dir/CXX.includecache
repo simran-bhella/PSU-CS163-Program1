@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/Development/CS163/Program1/food.cpp
+food.h
+/mnt/d/Development/CS163/Program1/food.h
+
+/mnt/d/Development/CS163/Program1/food.h
+iostream
+-
+cctype
+-
+cstring
+-
+
+/mnt/d/Development/CS163/Program1/main.cpp
+food.h
+/mnt/d/Development/CS163/Program1/food.h
+
